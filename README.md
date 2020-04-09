@@ -16,3 +16,23 @@
 # Competitors
 
 * https://help.sap.com/viewer/2754875d2d2a403f95e58a41a9c7d6de/1905/en-US/2ce2afc4722d1014877689c0aab386e5.html
+
+# Technical
+Dear IMGUI load images:
+* https://github.com/ocornut/imgui/wiki/Image-Loading-and-Displaying-Examples
+* https://www.khronos.org/registry/OpenGL-Refpages/gl4/html/glTexImage2D.xhtml
+* https://tpgit.github.io/Leptonica/struct_pix.html#aef4c9107abdca8b948d1a0e61dac8acc
+
+OCR
+* https://ub-mannheim.github.io/tesseract/a01758.html#ga0e4065c20b142d69a2324ee0c74ae0b0
+* https://ub-mannheim.github.io/tesseract/a02893.html#ac350ee2b121c4bf1f625b1606a859d0a
+
+HOCR
+* http://kba.cloud/hocr-spec/1.2/#sec-ocr_line
+
+C++
+* http://www.cplusplus.com/reference/memory/dynamic_pointer_cast/
+
+Boost
+* https://www.boost.org/doc/libs/1_63_0/doc/html/interprocess/quick_guide.html
+* https://www.boost.org/doc/libs/develop/doc/html/boost_process/tutorial.html#boost_process.tutorial.launch_mode
