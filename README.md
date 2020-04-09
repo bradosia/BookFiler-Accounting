@@ -30,6 +30,10 @@ OCR
 HOCR
 * http://kba.cloud/hocr-spec/1.2/#sec-ocr_line
 
+PDF:
+* http://podofo.sourceforge.net/doc/html/namespacePoDoFo.html
+* https://github.com/mariusmuja/mupdf/blob/master/doc/example.c
+
 C++
 * http://www.cplusplus.com/reference/memory/dynamic_pointer_cast/
 
