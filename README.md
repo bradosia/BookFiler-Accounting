@@ -33,6 +33,11 @@ HOCR
 C++
 * http://www.cplusplus.com/reference/memory/dynamic_pointer_cast/
 
-Boost
+Shared Memory:
 * https://www.boost.org/doc/libs/1_63_0/doc/html/interprocess/quick_guide.html
+
+Processes:
 * https://www.boost.org/doc/libs/develop/doc/html/boost_process/tutorial.html#boost_process.tutorial.launch_mode
+
+SVG:
+* https://www.boost.org/doc/libs/1_72_0/libs/geometry/doc/html/geometry/reference/io/svg/svg_mapper.html
