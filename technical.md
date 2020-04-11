@@ -1,3 +1,11 @@
+# check status
+
+| Status | Description |
+|:-- |:-- |
+|Deposit in transit|received by entity, but not yet recorded by entity's bank|
+|Outstanding check|issued by entity, but not cleared bank|
+|NSF check|not sufficient funds.A check that was not honored by the bank of the check issuer|
+
 # Technical
 Dear IMGUI load images:
 * https://github.com/ocornut/imgui/wiki/Image-Loading-and-Displaying-Examples
