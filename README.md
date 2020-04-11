@@ -1,5 +1,15 @@
 # Bookfiler™ Accounting
 
+## Features
+
+* Very fast categorizing expenses
+* Multi-user support (clients have a server mode)
+
+## Monetization
+
+* Core modules are free
+* New modules will be sold for $1, no upgrade option, no warranty
+
 # Formats
 
 | Bank | Format | Description |
