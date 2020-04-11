@@ -4,6 +4,7 @@
 
 * Very fast categorizing expenses
 * Multi-user support (clients have a server mode)
+* double-entry bookkeeping system with optional abstraction for categorizing expenses
 
 ## Monetization
 
